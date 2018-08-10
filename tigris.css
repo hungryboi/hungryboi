@@ -1,0 +1,20 @@
+body {
+width: 50%;
+ background: linear-gradient(to bottom, #ff0000 0%, #99ffcc 100%);
+ margin: 0;
+}
+img {
+border: 10px solid black; 
+width: 1000px;
+}
+
+.Awesomeness {
+font-family: 'Source Sans Pro', sans-serif;
+}
+.BarneyStinson {
+font-family: 'Source Sans Pro', sans-serif;
+}
+.hta {
+font-family: 'Righteous', cursive;
+}
+
