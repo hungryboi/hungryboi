@@ -1,0 +1,36 @@
+body {
+width: 65%;
+ background: linear-gradient(to bottom, #33cccc 0%, #2e0700 100%);
+}
+img {
+width: 250px
+}
+
+.BQ {
+  font-family: 'Righteous', cursive;
+  margin-left: 25px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: 25px;
+}
+
+table, tr, td, th {
+  border: 1px solid white;
+  padding: 8px;
+  text-align: center;
+
+}
+
+tr:hover {
+background-color: #2eea00;
+color: white;
+}
+
+.overlay {
+background-image: url("barney.jpg");
+background-size: cover;
+height: 500px;
+
+}

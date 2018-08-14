@@ -5,16 +5,28 @@ width: 50%;
 }
 img {
 border: 10px solid black; 
-width: 1000px;
+width: 900px;
+margin-left: 25px;
 }
 
 .Awesomeness {
 font-family: 'Source Sans Pro', sans-serif;
+margin-left: 25px;
 }
 .BarneyStinson {
 font-family: 'Source Sans Pro', sans-serif;
+margin-left: 25px;
 }
 .hta {
 font-family: 'Righteous', cursive;
+margin-left: 25px;
+position: sticky;
 }
-
+.newtab {
+font-family: 'Source Sans Pro', sans-serif;
+margin-left: 25px;
+}
+a {
+  text-decoration: none;
+  margin: 25px;
+}
