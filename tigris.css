@@ -1,17 +1,21 @@
 body {
-width: 50%;
+width: 100%;
  background: linear-gradient(to bottom, #ff0000 0%, #99ffcc 100%);
  margin: 0;
+ text-align: center;
 }
 img {
 border: 10px solid black; 
 width: 900px;
-margin-left: 25px;
+margin-left: 500px;
+margin-right: 500px;
 }
 
 .Awesomeness {
 font-family: 'Source Sans Pro', sans-serif;
-margin-left: 25px;
+margin-left: 500px;
+margin-right: 500px;
+font-size: 30px
 }
 .BarneyStinson {
 font-family: 'Source Sans Pro', sans-serif;
@@ -19,14 +23,32 @@ margin-left: 25px;
 }
 .hta {
 font-family: 'Righteous', cursive;
-margin-left: 25px;
+margin-left: 500px;
+margin-right: 500px;
 position: sticky;
+font-size: 80px;
 }
 .newtab {
 font-family: 'Source Sans Pro', sans-serif;
-margin-left: 25px;
+margin-left: 500px;
+margin-right: 500px;
+font-size: 30px
+}
+.Legacy {
+font-family: 'Source Sans Pro', sans-serif;
+margin-left: 500px;
+margin-right: 500px;
+font-size: 30px
 }
 a {
-  text-decoration: none;
-  margin: 25px;
+text-decoration: none;
+margin: 25px;
+}
+
+.kewl {
+border-radius: 10%
+}
+
+.scotch {
+border-radius: 15%
 }
